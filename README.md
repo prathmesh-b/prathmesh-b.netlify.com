@@ -1,4 +1,2 @@
-# prathmeshbhosale.netlify.com
-# prathmeshbhosale.netlify.com
-# prathmeshbhosale.netlify.com
-# prathmeshbhosale.netlify.com
+## Website created for practice but gone offline
+
